@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod --base-href \"https://frmdp.github.io/ci2/\"",
+    "build": "ng build --prod --base-href \"https://frmdp.github.io/integracion-continua/\"",
     "test": "ng test --watch=false",
     "lint": "ng lint",
     "e2e": "ng e2e"
