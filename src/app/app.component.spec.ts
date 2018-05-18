@@ -25,6 +25,6 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('h1').textContent).toContain('Wlcm to app!');
   }));
   it('should like false != true', () => {
-    expect(true).toBe(false);
+    expect(true).toBe(!false);
   });
 });
